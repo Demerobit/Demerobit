@@ -1,1 +1,3 @@
-by editing infiniteyoutube.cmd file and chainging https://youtube.com link with other link or file name on your windows device you manage to open that link or file infinitly.
+by editing infiniteyoutube.cmd file and chainging
+https://youtube.com link with other link or file name on your
+windows device you manage to open that link or file infinitly.
